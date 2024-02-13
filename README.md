@@ -2,11 +2,22 @@
     <h1 align="center">print("你好！") </h1> 
     <p align="center">This is Seedking, Welcome to my Github page!</p>   
 </p>
+
 Hi! I'm Seedking, an amateur programmer with a strong interest in programming and open-source.  
 
 #### About Me
-- 💻 Programming Languages: I have some knowledge and experience with Cpp, Java, Kotlin, C#, and Lua, and I have explored other languages to some extent.  
-- 🌻 Future Plans: I'm constantly working on expanding my skills and deepening my understanding in areas such as game develop.  
+💻 Programming Languages: C/Cpp, Kotlin/Java, C#, Lua  
+❤️ Favorite Language: C# and Kotlin  
+🌻 Future Plans:  
+* Maintain XMake-IDEA
+* Learn game develop
+* Learn compilation principle and llvm
+* Create a statically strong-typed scripting language
+
+🏆 GitHub Profile Trophy
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="Seedking"></div>
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seedking&hide_border=true&layout=compact" />
