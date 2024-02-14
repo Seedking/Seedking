@@ -15,7 +15,7 @@ Hi! I'm Seedking, an amateur programmer with a strong interest in programming an
 * Create a statically strong-typed scripting language
 
 🏆 GitHub Profile Trophy
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dylech30th&row=1&column=8&no-frame=true" alt="Seedking"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=seedking&row=1&column=8&no-frame=true" alt="Seedking"></div>
 
 
 
