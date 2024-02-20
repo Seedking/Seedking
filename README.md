@@ -9,7 +9,7 @@ My quest for knowledge is unending. I continually seek out ancient scrolls and e
 Let me bring the magic of coding to your projects and together, we can create something truly spellbinding.  
 
 #### About Me
-✨ Most trusted wand: Clion
+✨ Most trusted wand: Clion  
 💻 Spellbook Colection: C/Cpp, Kotlin/Java, C#, Lua  
 ❤️ Favorite spellbook: C# and Kotlin  
 🌻 Future Plans:  
