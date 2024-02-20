@@ -3,11 +3,15 @@
     <p align="center">This is Seedking, Welcome to my Github page!</p>   
 </p>
 
-Hi! I'm Seedking, an amateur programmer with a strong interest in programming and open-source.  
+Hello!!! I'm Seedking, I'm amazing Code Wizard!  
+With my wand of algorithms and spellbook of programming languages, I conjure solutions that transform complex problems into elegant outcomes. My journey through the realms of software development has equipped me with potent artifacts: experience in developing gui applications, proficiency in various programming languages, and the ability to craft interactive user experiences.  
+My quest for knowledge is unending. I continually seek out ancient scrolls and embark on adventures to hone my skills and expand my arsenal of techniques.  
+Let me bring the magic of coding to your projects and together, we can create something truly spellbinding.  
 
 #### About Me
-💻 Programming Languages: C/Cpp, Kotlin/Java, C#, Lua  
-❤️ Favorite Language: C# and Kotlin  
+✨ Most trusted wand: Clion
+💻 Spellbook Colection: C/Cpp, Kotlin/Java, C#, Lua  
+❤️ Favorite spellbook: C# and Kotlin  
 🌻 Future Plans:  
 * Maintain XMake-IDEA
 * Learn game develop
